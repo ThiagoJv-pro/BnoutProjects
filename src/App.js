@@ -2,15 +2,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        
-      </header>
-
       <body>
         <h1>TESTE</h1>
       </body>
-    </div>
+    
   );
 }
 
