@@ -1,9 +1,8 @@
 import './App.css';
-
 function App() {
   return (
       <body>
-        <h1>TESTE</h1>
+        <img src={"./imgs/logoPngsooB.png"} alt="logo"/>
       </body>
     
   );
