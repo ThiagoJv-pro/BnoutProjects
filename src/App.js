@@ -4,7 +4,9 @@ import logo from './imgs/logoPngsooB.png';
 function App() {
   return (
       <body>
-        <img src={logo} alt="logo"/>
+        <div class="logo">
+        <img id="logoImg" src={logo} alt="logo"/>
+        </div>
       </body>
     
   );
