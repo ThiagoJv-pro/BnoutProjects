@@ -1,10 +1,10 @@
 import './App.css';
-import './imgs/logoPngsooB.png';
+import logo from './imgs/logoPngsooB.png';
 
 function App() {
   return (
       <body>
-        <img src={"./imgs/logoPngsooB.png"} alt="logo"/>
+        <img src={logo} alt="logo"/>
       </body>
     
   );
