@@ -52,7 +52,7 @@ body{
 }
 
 
-#animation{
+.animation{
   margin-top: 10%;
   display: flex;
   align-items: center;
