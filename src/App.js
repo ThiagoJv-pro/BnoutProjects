@@ -1,4 +1,6 @@
 import './App.css';
+import './imgs/logoPngsooB.png';
+
 function App() {
   return (
       <body>
