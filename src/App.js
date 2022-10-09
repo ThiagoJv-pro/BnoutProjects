@@ -1,7 +1,6 @@
 import './App.css';
 import logo from './imgs/logoPngsooB.png';
 import engr from './imgs/lv3.png';
-import 'bootstrap/dist/bootstrap.min.css';
 import { Nav } from 'react-bootstrap';
 
 function App() {
