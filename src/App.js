@@ -23,7 +23,7 @@ function App() {
         </div>
 
         <div class="text">
-        <h1>Under developments...</h1>
+        <h1>Under developmentss...</h1>
         </div>
 
       </body>
