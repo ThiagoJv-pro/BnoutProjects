@@ -12,6 +12,7 @@ function App() {
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
           </button>
+          </nav>
 
         <div class="logo">
           <img id="logoImg" src={logo} alt="logo"/>
@@ -22,7 +23,7 @@ function App() {
         </div>
 
         <div class="text">
-        <h1>Under development...</h1>
+        <h1>Under developments...</h1>
         </div>
 
       </body>
