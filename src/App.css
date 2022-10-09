@@ -60,7 +60,4 @@ body{
   animation: spin 30s linear infinite;
 }
 
-@-webkit-keyframes spin{
-  100%{-webkit-transform: rotate(360deg);}
-}
 
