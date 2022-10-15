@@ -22,7 +22,7 @@ function App() {
         </div>
 
         <div class="text">
-        <h1>development...</h1>
+        <h1>...</h1>
         </div>
 
       </body>
