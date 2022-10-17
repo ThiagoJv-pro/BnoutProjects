@@ -2,17 +2,12 @@ import './App.css';
 import logo from './imgs/logoPngsooB.png';
 import engr from './imgs/lv3.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import navbar from './components/NavBar';
 
 function App() {
   return (
       <body>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-          </button>
-          </nav>
-
+        <navbar/>
         <div class="logo">
           <img id="logoImg" src={logo} alt="logo"/>
         </div>
