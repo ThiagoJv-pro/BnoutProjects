@@ -2,12 +2,12 @@ import './App.css';
 import logo from './imgs/logoPngsooB.png';
 import engr from './imgs/lv3.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import navbar from './components/NavBar';
+import NavBar from './components/NavBar/index.js';
 
 function App() {
   return (
       <body>
-        <navbar/>
+        <NavBar/>
         <div class="logo">
           <img id="logoImg" src={logo} alt="logo"/>
         </div>

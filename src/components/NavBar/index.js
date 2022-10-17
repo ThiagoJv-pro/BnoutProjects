@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function navbar() {
+function NavBar() {
     return (
 
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -12,4 +12,4 @@ function navbar() {
 
 }
 
-export default navbar;
+export default NavBar;
