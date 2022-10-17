@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Logo from './imgs/logoPngsooB.png';
+import Logo from '../imgs/logoPngsooB.png';
 import './style.css';
 
 function NavBar() {
