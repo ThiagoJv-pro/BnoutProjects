@@ -7,7 +7,7 @@ import NavBar from './components/NavBar/index.js';
 function App() {
   return (
       <body>
-        <NavBar/>
+      
         <div class="logo">
           <img id="logoImg" src={logo} alt="logo"/>
         </div>
