@@ -1,5 +1,4 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Logo from 'src/imgs/logoPngsooB.png';
 import './style.css';
 import React from 'react';
 
