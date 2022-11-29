@@ -7,31 +7,33 @@ function NavBar() {
     return (
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <div class="collapse navbar-collapse" id="navbarText">
+            <div id="navbarText">
                 <ul class="navbar-nav me-auto ">
-                    <li class="nav-item">
+                    <li class="nav-item c">
                         <p>Home</p>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item c">
                         <p> About </p>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item c">
                         <p> Contato </p>
                     </li>
                 </ul>
             </div>
+
             <div class="logo">
                  <img id="logoImg" src={logo} alt="logo"/>
             </div>
-            <div class="collapse navbar-collapse" id="navbarText">
+
+            <div id="navbarText">
                 <ul class="navbar-nav me-auto ">
-                    <li class="nav-item">
+                    <li class="nav-item c">
                         <p>Home</p>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item c">
                         <p> About </p>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item c">
                         <p> Contato </p>
                     </li>
                 </ul>
