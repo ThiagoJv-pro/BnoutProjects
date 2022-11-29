@@ -6,7 +6,8 @@ import logo from './logoPngsooB.png';
 function NavBar() {
     return (
 
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            
             <div class="logo">
                  <img id="logoImg" src={logo} alt="logo"/>
             </div>
