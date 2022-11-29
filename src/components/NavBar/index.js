@@ -23,6 +23,19 @@ function NavBar() {
             <div class="logo">
                  <img id="logoImg" src={logo} alt="logo"/>
             </div>
+            <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav me-auto ">
+                    <li class="nav-item">
+                        <p>Home</p>
+                    </li>
+                    <li class="nav-item">
+                        <p> About </p>
+                    </li>
+                    <li class="nav-item">
+                        <p> Contato </p>
+                    </li>
+                </ul>
+            </div>
         </nav>
     )
 
