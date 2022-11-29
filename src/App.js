@@ -1,17 +1,13 @@
 import './App.css';
-import logo from './imgs/logoPngsooB.png';
+
 import engr from './imgs/lv3.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
-//import NavBar from './components/NavBar/index.js';
+import NavBar from './components/NavBar/index.js';
 
 function App() {
   return (
       <body>
-      
-        <div class="logo">
-          <img id="logoImg" src={logo} alt="logo"/>
-        </div>
-
+      <NavBar/>
         <div class="animation">
           <img id="logoImg2" src={engr} alt="engrenagem"/>
         </div>
