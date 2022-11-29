@@ -2,7 +2,7 @@ import './App.css';
 import logo from './imgs/logoPngsooB.png';
 import engr from './imgs/lv3.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import NavBar from './components/NavBar/index.js';
+//import NavBar from './components/NavBar/index.js';
 
 function App() {
   return (
