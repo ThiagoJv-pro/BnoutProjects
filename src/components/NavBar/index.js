@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css';
 import React from 'react';
-import logo from '/imgs/logoPngsooB.png';
+import logo from '/public/imgs/logoPngsooB.png';
 
 function NavBar() {
     return (

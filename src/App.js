@@ -1,5 +1,5 @@
 import './App.css';
-import engr from './imgs/lv3.png';
+import engr from '../public/imgs/lv3.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavBar from './components/NavBar/index.js';
 
