@@ -39,11 +39,7 @@ body{
   width: 300px;
 }
 
-.logo{
-      display: flex;
-      align-items: center;
-      justify-content: center;
-}
+
 .text{
   color: #181650;
   display: flex;
