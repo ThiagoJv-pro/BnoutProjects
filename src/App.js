@@ -7,14 +7,7 @@ function App() {
   return (
       <body>
       <NavBar/>
-        <div class="animation">
-          <img id="logoImg2" src={engr} alt="engrenagem"/>
-        </div>
-
-        <div class="text">
-        <h1>...</h1>
-        </div>
-
+       
       </body>
     
   );
